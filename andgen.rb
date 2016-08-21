@@ -3,9 +3,10 @@ class Andgen < Formula
   homepage "https://github.com/ahmedrizwan/andgen"
   url "https://github.com/ahmedrizwan/andgen/archive/v1.0.0.tar.gz"
   version "1.0.0"
-  sha256 "00dcd0912d3ddd5352ed4f7705e320050f785ff98b5bbfc80aecc907e24a39ce"
+  sha256 "978c18f714ee8855baf1941860ff56f52c2c8d33ad3099e52dc04926c16e53ee"
 
   def install
     bin.install "andgen"
   end
+
 end
